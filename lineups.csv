@@ -1,6 +1,6 @@
 player_name,team,position,stat_type,line_score,is_taco,flash_sale_line,start_time
 Cooper Flagg,DAL,F,Points,20.5,True,14.5,2026-03-10T19:40:00.000-04:00
-Quentin Grimes,PHI,G,Points,19.5,False,,2026-03-10T19:10:00.000-04:00
+Quentin Grimes,PHI,G,Points,18.5,False,,2026-03-10T19:10:00.000-04:00
 VJ Edgecombe,PHI,G,Points,18.5,False,,2026-03-10T19:10:00.000-04:00
 Ty Jerome,MEM,G-F,Points,17.5,False,,2026-03-10T19:10:00.000-04:00
 Kelly Oubre,PHI,F-G,Points,17.5,False,,2026-03-10T19:10:00.000-04:00
@@ -13,6 +13,7 @@ VJ Edgecombe,PHI,G,Points,9.5,False,,2026-03-10T19:10:00.000-04:00
 Dominick Barlow,PHI,F,Points,9.5,False,,2026-03-10T19:10:00.000-04:00
 Ty Jerome,MEM,G-F,Points,8.5,False,,2026-03-10T19:10:00.000-04:00
 Adem Bona,PHI,F,Points,8.5,False,,2026-03-10T19:10:00.000-04:00
+Cam Spencer,MEM,G,Points,8.5,False,,2026-03-10T19:10:00.000-04:00
 GG Jackson,MEM,F,Points,7,False,,2026-03-10T19:10:00.000-04:00
 Jaylen Wells,MEM,F,Points,6.5,False,,2026-03-10T19:10:00.000-04:00
 Adem Bona,PHI,F,Rebounds,6.5,False,,2026-03-10T19:10:00.000-04:00
@@ -98,6 +99,8 @@ Alex Sarr,WAS,C,Points,10.5,False,,2026-03-10T19:40:00.000-04:00
 Bub Carrington,WAS,G,Points,10,False,,2026-03-10T19:40:00.000-04:00
 Jaime Jaquez,MIA,G,Points,9.5,False,,2026-03-10T19:40:00.000-04:00
 Davion Mitchell,MIA,G,Points,9,False,,2026-03-10T19:40:00.000-04:00
+Myron Gardner,MIA,F,Points,9,False,,2026-03-10T19:40:00.000-04:00
+Myron Gardner,MIA,F,Rebounds,7,False,,2026-03-10T19:40:00.000-04:00
 Pelle Larsson,MIA,G,Points,7,False,,2026-03-10T19:40:00.000-04:00
 Davion Mitchell,MIA,G,Assists,6,False,,2026-03-10T19:40:00.000-04:00
 Bam Adebayo,MIA,C-F,Points,6,False,,2026-03-10T19:40:00.000-04:00
@@ -115,7 +118,7 @@ Myron Gardner,MIA,F,Points,2.5,False,,2026-03-10T19:40:00.000-04:00
 Will Riley,WAS,F,Rebounds,0.5,False,,2026-03-10T19:40:00.000-04:00
 Myron Gardner,MIA,F,Assists,0.5,False,,2026-03-10T19:40:00.000-04:00
 Cade Cunningham,DET,G,Points,25.5,False,,2026-03-10T19:40:00.000-04:00
-Michael Porter,BKN,F,Points,21.5,False,,2026-03-10T19:40:00.000-04:00
+Michael Porter,BKN,F,Points,22.5,False,,2026-03-10T19:40:00.000-04:00
 Jalen Duren,DET,C,Points,17.5,False,,2026-03-10T19:40:00.000-04:00
 Tobias Harris,DET,F,Points,13.5,False,,2026-03-10T19:40:00.000-04:00
 Noah Clowney,BKN,F-C,Points,12.5,False,,2026-03-10T19:40:00.000-04:00
@@ -128,6 +131,7 @@ Cade Cunningham,DET,G,Assists,10,False,,2026-03-10T19:40:00.000-04:00
 Jalen Duren,DET,C,Points,9.5,False,,2026-03-10T19:40:00.000-04:00
 Nic Claxton,BKN,C,Points,9.5,False,,2026-03-10T19:40:00.000-04:00
 Isaiah Stewart,DET,F-C,Points,8.5,False,,2026-03-10T19:40:00.000-04:00
+Marcus Sasser,DET,G,Points,8.5,False,,2026-03-10T19:40:00.000-04:00
 Tobias Harris,DET,F,Points,7.5,False,,2026-03-10T19:40:00.000-04:00
 Ronald Holland,DET,F,Points,7.5,False,,2026-03-10T19:40:00.000-04:00
 Drake Powell,BKN,G-F,Points,7,False,,2026-03-10T19:40:00.000-04:00
@@ -147,7 +151,6 @@ Duncan Robinson,DET,F,Rebounds,2.5,False,,2026-03-10T19:40:00.000-04:00
 Michael Porter,BKN,F,Assists,2.5,False,,2026-03-10T19:40:00.000-04:00
 Nic Claxton,BKN,C,Points,2.5,False,,2026-03-10T19:40:00.000-04:00
 Nolan Traore,BKN,G,Points,2.5,False,,2026-03-10T19:40:00.000-04:00
-Jalen Duren,DET,C,Assists,1.5,False,,2026-03-10T19:40:00.000-04:00
 Cade Cunningham,DET,G,Rebounds,1.5,False,,2026-03-10T19:40:00.000-04:00
 Drake Powell,BKN,G-F,Assists,1.5,False,,2026-03-10T19:40:00.000-04:00
 Duncan Robinson,DET,F,Assists,1.5,False,,2026-03-10T19:40:00.000-04:00
@@ -175,7 +178,6 @@ Reed Sheppard,HOU,G,Points,8.5,False,,2026-03-10T20:10:00.000-04:00
 Scottie Barnes,TOR,F-G,Points,8.5,False,,2026-03-10T20:10:00.000-04:00
 Immanuel Quickley,TOR,G,Points,8.5,False,,2026-03-10T20:10:00.000-04:00
 Jakob Poeltl,TOR,C,Rebounds,8,False,,2026-03-10T20:10:00.000-04:00
-Amen Thompson,HOU,G-F,Rebounds,7.5,False,,2026-03-10T20:10:00.000-04:00
 Kevin Durant,HOU,F,Points,7,False,,2026-03-10T20:10:00.000-04:00
 Jabari Smith,HOU,F,Rebounds,6.5,False,,2026-03-10T20:10:00.000-04:00
 Ja'Kobe Walter,TOR,G,Points,6.5,False,,2026-03-10T20:10:00.000-04:00
@@ -194,6 +196,7 @@ Alperen Sengun,HOU,C,Points,4,False,,2026-03-10T20:10:00.000-04:00
 Scottie Barnes,TOR,F-G,Points,4,False,,2026-03-10T20:10:00.000-04:00
 Dorian Finney-Smith,HOU,F,Points,3.5,False,,2026-03-10T20:10:00.000-04:00
 Reed Sheppard,HOU,G,Assists,3.5,False,,2026-03-10T20:10:00.000-04:00
+Brandon Ingram,TOR,F,Assists,3.5,False,,2026-03-10T20:10:00.000-04:00
 Dorian Finney-Smith,HOU,F,Rebounds,2.5,False,,2026-03-10T20:10:00.000-04:00
 Ja'Kobe Walter,TOR,G,Rebounds,2.5,False,,2026-03-10T20:10:00.000-04:00
 Clint Capela,HOU,C,Rebounds,1.5,False,,2026-03-10T20:10:00.000-04:00
@@ -218,6 +221,7 @@ Kyle Kuzma,MIL,F,Points,11.5,False,,2026-03-10T20:10:00.000-04:00
 Bobby Portis,MIL,F,Points,11.5,False,,2026-03-10T20:10:00.000-04:00
 Jalen Green,PHX,G,Points,10.5,False,,2026-03-10T20:10:00.000-04:00
 Ousmane Dieng,MIL,F,Points,9.5,False,,2026-03-10T20:10:00.000-04:00
+Myles Turner,MIL,C-F,Points,9.5,False,,2026-03-10T20:10:00.000-04:00
 Giannis Antetokounmpo,MIL,F,Rebounds,9,False,,2026-03-10T20:10:00.000-04:00
 Royce O'Neale,PHX,F,Points,9,False,,2026-03-10T20:10:00.000-04:00
 Grayson Allen,PHX,G,Points,8.5,False,,2026-03-10T20:10:00.000-04:00
@@ -314,7 +318,7 @@ Kon Knueppel,CHA,G-F,Points,10.5,False,,2026-03-10T22:10:00.000-04:00
 Deni Avdija,POR,F,Points,10,False,,2026-03-10T22:10:00.000-04:00
 LaMelo Ball,CHA,G,Points,10,False,,2026-03-10T22:10:00.000-04:00
 Donovan Clingan,POR,C,Rebounds,10,False,,2026-03-10T22:10:00.000-04:00
-Moussa DiabatÃ©,CHA,F,Points,9.5,False,,2026-03-10T22:10:00.000-04:00
+Moussa Diabaté,CHA,F,Points,9.5,False,,2026-03-10T22:10:00.000-04:00
 Jerami Grant,POR,F,Points,9.5,False,,2026-03-10T22:10:00.000-04:00
 Jrue Holiday,POR,G,Points,7.5,False,,2026-03-10T22:10:00.000-04:00
 Miles Bridges,CHA,F,Points,7.5,False,,2026-03-10T22:10:00.000-04:00
@@ -322,7 +326,7 @@ LaMelo Ball,CHA,G,Assists,7,False,,2026-03-10T22:10:00.000-04:00
 Toumani Camara,POR,F,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
 Scoot Henderson,POR,G,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
 Grant Williams,CHA,F,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
-VÃ­t KrejÄ?Ã­,POR,G,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
+Vít Krejčí,POR,G,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
 Brandon Miller,CHA,F,Points,6,False,,2026-03-10T22:10:00.000-04:00
 Robert Williams,POR,C-F,Points,6,False,,2026-03-10T22:10:00.000-04:00
 Deni Avdija,POR,F,Rebounds,5.5,False,,2026-03-10T22:10:00.000-04:00
@@ -339,7 +343,7 @@ Toumani Camara,POR,F,Rebounds,5,False,,2026-03-10T22:10:00.000-04:00
 LaMelo Ball,CHA,G,Points,5,False,,2026-03-10T22:10:00.000-04:00
 Deni Avdija,POR,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
 Jerami Grant,POR,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
-Moussa DiabatÃ©,CHA,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
+Moussa Diabaté,CHA,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
 Josh Green,CHA,G,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
 Ryan Kalkbrenner,CHA,C,Rebounds,4,False,,2026-03-10T22:10:00.000-04:00
 Jrue Holiday,POR,G,Rebounds,4,False,,2026-03-10T22:10:00.000-04:00
@@ -353,17 +357,17 @@ Brandon Miller,CHA,F,Rebounds,1.5,False,,2026-03-10T22:10:00.000-04:00
 Robert Williams,POR,C-F,Rebounds,1.5,False,,2026-03-10T22:10:00.000-04:00
 Grant Williams,CHA,F,Points,1.5,False,,2026-03-10T22:10:00.000-04:00
 Toumani Camara,POR,F,Assists,0.5,False,,2026-03-10T22:10:00.000-04:00
-VÃ­t KrejÄ?Ã­,POR,G,Points,0.5,False,,2026-03-10T22:10:00.000-04:00
+Vít Krejčí,POR,G,Points,0.5,False,,2026-03-10T22:10:00.000-04:00
 Ryan Kalkbrenner,CHA,C,Assists,0.5,False,,2026-03-10T22:10:00.000-04:00
 Sion James,CHA,G,Rebounds,0.5,False,,2026-03-10T22:10:00.000-04:00
 Josh Giddey,CHI,G,Points,17.5,False,,2026-03-10T22:10:00.000-04:00
 Matas Buzelis,CHI,F,Points,17.5,False,,2026-03-10T22:10:00.000-04:00
 Brandin Podziemski,GSW,G,Points,17.5,False,,2026-03-10T22:10:00.000-04:00
-De'Anthony Melton,GSW,G,Points,16.5,False,,2026-03-10T22:10:00.000-04:00
+De'Anthony Melton,GSW,G,Points,15.5,False,,2026-03-10T22:10:00.000-04:00
 Gui Santos,GSW,F,Points,15.5,False,,2026-03-10T22:10:00.000-04:00
 Collin Sexton,CHI,G,Points,15.5,False,,2026-03-10T22:10:00.000-04:00
 Tre Jones,CHI,G,Points,13.5,False,,2026-03-10T22:10:00.000-04:00
-Kristaps PorziÅ†Ä£is,GSW,F-C,Points,13.5,False,,2026-03-10T22:10:00.000-04:00
+Kristaps Porziņģis,GSW,F-C,Points,13.5,False,,2026-03-10T22:10:00.000-04:00
 Al Horford,GSW,C-F,Points,10.5,False,,2026-03-10T22:10:00.000-04:00
 Guerschon Yabusele,CHI,F,Points,9.5,False,,2026-03-10T22:10:00.000-04:00
 Matas Buzelis,CHI,F,Points,9.5,False,,2026-03-10T22:10:00.000-04:00
@@ -377,7 +381,7 @@ De'Anthony Melton,GSW,G,Points,8.5,False,,2026-03-10T22:10:00.000-04:00
 Collin Sexton,CHI,G,Points,8.5,False,,2026-03-10T22:10:00.000-04:00
 Josh Giddey,CHI,G,Rebounds,8,False,,2026-03-10T22:10:00.000-04:00
 Gui Santos,GSW,F,Points,7.5,False,,2026-03-10T22:10:00.000-04:00
-Kristaps PorziÅ†Ä£is,GSW,F-C,Points,7,False,,2026-03-10T22:10:00.000-04:00
+Kristaps Porziņģis,GSW,F-C,Points,7,False,,2026-03-10T22:10:00.000-04:00
 Brandin Podziemski,GSW,G,Rebounds,7,False,,2026-03-10T22:10:00.000-04:00
 Tre Jones,CHI,G,Points,6.5,False,,2026-03-10T22:10:00.000-04:00
 Draymond Green,GSW,F,Assists,6,False,,2026-03-10T22:10:00.000-04:00
@@ -391,7 +395,7 @@ Jalen Smith,CHI,F-C,Rebounds,5.5,False,,2026-03-10T22:10:00.000-04:00
 Tre Jones,CHI,G,Assists,5,False,,2026-03-10T22:10:00.000-04:00
 Draymond Green,GSW,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
 Matas Buzelis,CHI,F,Points,4.5,False,,2026-03-10T22:10:00.000-04:00
-Kristaps PorziÅ†Ä£is,GSW,F-C,Rebounds,4.5,False,,2026-03-10T22:10:00.000-04:00
+Kristaps Porziņģis,GSW,F-C,Rebounds,4.5,False,,2026-03-10T22:10:00.000-04:00
 Brandin Podziemski,GSW,G,Assists,4.5,False,,2026-03-10T22:10:00.000-04:00
 Brandin Podziemski,GSW,G,Points,4,False,,2026-03-10T22:10:00.000-04:00
 De'Anthony Melton,GSW,G,Points,4,False,,2026-03-10T22:10:00.000-04:00
@@ -400,7 +404,6 @@ Gui Santos,GSW,F,Points,3.5,False,,2026-03-10T22:10:00.000-04:00
 Tre Jones,CHI,G,Points,3.5,False,,2026-03-10T22:10:00.000-04:00
 De'Anthony Melton,GSW,G,Assists,2.5,False,,2026-03-10T22:10:00.000-04:00
 Guerschon Yabusele,CHI,F,Points,2.5,False,,2026-03-10T22:10:00.000-04:00
-Isaac Okoro,CHI,F-G,Points,2.5,False,,2026-03-10T22:10:00.000-04:00
 Guerschon Yabusele,CHI,F,Rebounds,1.5,False,,2026-03-10T22:10:00.000-04:00
 Matas Buzelis,CHI,F,Rebounds,1.5,False,,2026-03-10T22:10:00.000-04:00
 Al Horford,GSW,C-F,Rebounds,1.5,False,,2026-03-10T22:10:00.000-04:00
@@ -409,8 +412,8 @@ Jarace Walker,IND,F,Points,17.5,False,,2026-03-10T22:10:00.000-04:00
 DeMar DeRozan,SAC,G-F,Points,16.5,False,,2026-03-10T22:10:00.000-04:00
 Russell Westbrook,SAC,G,Points,16.5,False,,2026-03-10T22:10:00.000-04:00
 Maxime Raynaud,SAC,C,Points,15.5,False,,2026-03-10T22:10:00.000-04:00
-Precious Achiuwa,SAC,F,Points,15.5,False,,2026-03-10T22:10:00.000-04:00
 Malik Monk,SAC,G,Points,14.5,False,,2026-03-10T22:10:00.000-04:00
+Precious Achiuwa,SAC,F,Points,14.5,False,,2026-03-10T22:10:00.000-04:00
 Jay Huff,IND,C,Points,13.5,False,,2026-03-10T22:10:00.000-04:00
 Aaron Nesmith,IND,G-F,Points,12.5,False,,2026-03-10T22:10:00.000-04:00
 Nique Clifford,SAC,G,Points,11.5,False,,2026-03-10T22:10:00.000-04:00
@@ -432,12 +435,12 @@ Maxime Raynaud,SAC,C,Assists,1.5,False,,2026-03-10T22:10:00.000-04:00
 Aaron Nesmith,IND,G-F,Assists,0.5,False,,2026-03-10T22:10:00.000-04:00
 Malik Monk,SAC,G,Rebounds,0.5,False,,2026-03-10T22:10:00.000-04:00
 DeMar DeRozan,SAC,G-F,Rebounds,0.5,False,,2026-03-10T22:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Points,32,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Points,32,False,,2026-03-10T23:10:00.000-04:00
 Anthony Edwards,MIN,G,Points,29.5,False,,2026-03-10T23:10:00.000-04:00
 Austin Reaves,LAL,G,Points,20.5,False,,2026-03-10T23:10:00.000-04:00
 Julius Randle,MIN,F-C,Points,18.5,False,,2026-03-10T23:10:00.000-04:00
 LeBron James,LAL,F,Points,18.5,False,,2026-03-10T23:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Points,16.5,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Points,16.5,False,,2026-03-10T23:10:00.000-04:00
 Anthony Edwards,MIN,G,Points,14.5,False,,2026-03-10T23:10:00.000-04:00
 Jaden McDaniels,MIN,F,Points,13.5,False,,2026-03-10T23:10:00.000-04:00
 Naz Reid,MIN,C-F,Points,11.5,False,,2026-03-10T23:10:00.000-04:00
@@ -445,16 +448,16 @@ Rudy Gobert,MIN,C,Rebounds,11.5,False,,2026-03-10T23:10:00.000-04:00
 Donte DiVincenzo,MIN,G,Points,10.5,False,,2026-03-10T23:10:00.000-04:00
 Rudy Gobert,MIN,C,Points,10.5,False,,2026-03-10T23:10:00.000-04:00
 Austin Reaves,LAL,G,Points,10.5,False,,2026-03-10T23:10:00.000-04:00
-Ayo Dosunmu,MIN,G,Points,10.5,False,,2026-03-10T23:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Points,10,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Points,10,False,,2026-03-10T23:10:00.000-04:00
 Julius Randle,MIN,F-C,Points,9.5,False,,2026-03-10T23:10:00.000-04:00
 LeBron James,LAL,F,Points,9.5,False,,2026-03-10T23:10:00.000-04:00
+Ayo Dosunmu,MIN,G,Points,9.5,False,,2026-03-10T23:10:00.000-04:00
 Anthony Edwards,MIN,G,Points,8.5,False,,2026-03-10T23:10:00.000-04:00
 Luke Kennard,LAL,G,Points,8.5,False,,2026-03-10T23:10:00.000-04:00
 Deandre Ayton,LAL,C,Points,8.5,False,,2026-03-10T23:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Assists,8,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Assists,8,False,,2026-03-10T23:10:00.000-04:00
 Marcus Smart,LAL,G,Points,7.5,False,,2026-03-10T23:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Rebounds,7.5,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Rebounds,7.5,False,,2026-03-10T23:10:00.000-04:00
 Jaden McDaniels,MIN,F,Points,7,False,,2026-03-10T23:10:00.000-04:00
 Deandre Ayton,LAL,C,Rebounds,6.5,False,,2026-03-10T23:10:00.000-04:00
 Naz Reid,MIN,C-F,Points,6.5,False,,2026-03-10T23:10:00.000-04:00
@@ -480,7 +483,7 @@ Jaden McDaniels,MIN,F,Points,4,False,,2026-03-10T23:10:00.000-04:00
 Donte DiVincenzo,MIN,G,Rebounds,3.5,False,,2026-03-10T23:10:00.000-04:00
 Jaden McDaniels,MIN,F,Assists,2.5,False,,2026-03-10T23:10:00.000-04:00
 Ayo Dosunmu,MIN,G,Assists,2.5,False,,2026-03-10T23:10:00.000-04:00
-Luka DonÄ?iÄ‡,LAL,F-G,Assists,2.5,False,,2026-03-10T23:10:00.000-04:00
+Luka Dončić,LAL,F-G,Assists,2.5,False,,2026-03-10T23:10:00.000-04:00
 Naz Reid,MIN,C-F,Points,2.5,False,,2026-03-10T23:10:00.000-04:00
 Luke Kennard,LAL,G,Assists,1.5,False,,2026-03-10T23:10:00.000-04:00
 Marcus Smart,LAL,G,Points,1.5,False,,2026-03-10T23:10:00.000-04:00
