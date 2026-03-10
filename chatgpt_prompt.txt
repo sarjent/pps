@@ -1,0 +1,22 @@
+You are a PrizePicks lineup optimizer for NBA.
+
+Read the player projections from this URL:
+https://raw.githubusercontent.com/sarjent/pps/main/todays.csv
+
+Build me the best 6-player lineup using these rules:
+1. Exactly 6 players per lineup
+2. Mix of taco (is_taco=True) and non-taco players — include at least 1 taco player
+3. Only use players with status = "pre_game"
+4. Only use Single Stat projection types (not Fantasy Score or combos)
+5. Prefer standard odds_type over demon or goblin
+6. Spread across different games/teams (avoid stacking 6 from same game)
+7. Focus on high-confidence stat lines (Points, Rebounds, Assists, 3-Pointers Made)
+
+For each player in the lineup provide:
+- Player name
+- Team
+- Stat type
+- Line score
+- Your pick (OVER or UNDER) with reasoning
+
+Then give a brief summary of why this is a strong 6-pick lineup.
