@@ -1,21 +1,21 @@
 player_name,team,position,stat_type,line_score,is_taco,flash_sale_line,start_time
+Jalen Brunson,NYK,G,Points,25.5,False,0.5,2026-06-03T20:40:00.000-04:00
 Victor Wembanyama,SAS,F-C,Points,27.5,False,,2026-06-03T20:40:00.000-04:00
-Jalen Brunson,NYK,G,Points,25.5,False,,2026-06-03T20:40:00.000-04:00
 Karl-Anthony Towns,NYK,C-F,Points,17.5,False,,2026-06-03T20:40:00.000-04:00
 OG Anunoby,NYK,F-G,Points,16.5,False,,2026-06-03T20:40:00.000-04:00
 Stephon Castle,SAS,G,Points,16.5,False,,2026-06-03T20:40:00.000-04:00
 De'Aaron Fox,SAS,G,Points,15.5,False,,2026-06-03T20:40:00.000-04:00
-Mikal Bridges,NYK,G-F,Points,14.5,False,,2026-06-03T20:40:00.000-04:00
+Mikal Bridges,NYK,G-F,Points,14,False,,2026-06-03T20:40:00.000-04:00
 Devin Vassell,SAS,G-F,Points,13.5,False,,2026-06-03T20:40:00.000-04:00
 Victor Wembanyama,SAS,F-C,Rebounds,12.5,False,,2026-06-03T20:40:00.000-04:00
 Karl-Anthony Towns,NYK,C-F,Rebounds,12,False,,2026-06-03T20:40:00.000-04:00
 Josh Hart,NYK,G,Points,11.5,False,,2026-06-03T20:40:00.000-04:00
 Dylan Harper,SAS,G,Points,10.5,False,,2026-06-03T20:40:00.000-04:00
 Julian Champagnie,SAS,F,Points,9.5,False,,2026-06-03T20:40:00.000-04:00
-Keldon Johnson,SAS,F-G,Points,8.5,False,,2026-06-03T20:40:00.000-04:00
+Keldon Johnson,SAS,F-G,Points,8,False,,2026-06-03T20:40:00.000-04:00
 Josh Hart,NYK,G,Rebounds,8,False,,2026-06-03T20:40:00.000-04:00
 Jalen Brunson,NYK,G,Assists,7,False,,2026-06-03T20:40:00.000-04:00
-Stephon Castle,SAS,G,Assists,7,False,,2026-06-03T20:40:00.000-04:00
+Stephon Castle,SAS,G,Assists,6.5,False,,2026-06-03T20:40:00.000-04:00
 Landry Shamet,NYK,G,Points,6,False,,2026-06-03T20:40:00.000-04:00
 Miles McBride,NYK,G,Points,5.5,False,,2026-06-03T20:40:00.000-04:00
 Julian Champagnie,SAS,F,Rebounds,5.5,False,,2026-06-03T20:40:00.000-04:00
@@ -24,9 +24,9 @@ De'Aaron Fox,SAS,G,Assists,5.5,False,,2026-06-03T20:40:00.000-04:00
 Stephon Castle,SAS,G,Rebounds,5,False,,2026-06-03T20:40:00.000-04:00
 Josh Hart,NYK,G,Assists,4.5,False,,2026-06-03T20:40:00.000-04:00
 Karl-Anthony Towns,NYK,C-F,Assists,4.5,False,,2026-06-03T20:40:00.000-04:00
+Mitchell Robinson,NYK,C-F,Rebounds,4.5,False,,2026-06-03T20:40:00.000-04:00
 Devin Vassell,SAS,G-F,Rebounds,4,False,,2026-06-03T20:40:00.000-04:00
 Dylan Harper,SAS,G,Rebounds,4,False,,2026-06-03T20:40:00.000-04:00
-De'Aaron Fox,SAS,G,Rebounds,3.5,False,,2026-06-03T20:40:00.000-04:00
 Mitchell Robinson,NYK,C-F,Points,3.5,False,,2026-06-03T20:40:00.000-04:00
 Jalen Brunson,NYK,G,Rebounds,3,False,,2026-06-03T20:40:00.000-04:00
 Mikal Bridges,NYK,G-F,Rebounds,3,False,,2026-06-03T20:40:00.000-04:00
